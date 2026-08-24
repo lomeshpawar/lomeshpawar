@@ -59,19 +59,17 @@ A web-based system for reporting disasters, viewing emergency alerts and managin
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Highlights
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=lomeshpawar&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub statistics" />
-
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=lomeshpawar&hide_border=true" alt="GitHub streak" />
-
-<br />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lomeshpawar&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
+[![Profile](https://img.shields.io/badge/GitHub-lomeshpawar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lomeshpawar)
+[![CounterCheck](https://img.shields.io/badge/Featured-CounterCheck-0A66C2?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/lomeshpawar/Counterfeit-Detection-System)
+[![Emergency System](https://img.shields.io/badge/Featured-Disaster%20Alert%20System-E63946?style=for-the-badge&logo=java&logoColor=white)](https://github.com/lomeshpawar/Disaster-Emergency-Alert-System)
 
 </div>
+
+> Your live contribution graph and GitHub activity are available directly on your [GitHub profile](https://github.com/lomeshpawar).
 
 ---
 

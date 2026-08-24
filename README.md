@@ -5,7 +5,7 @@
 ### Java Backend Developer • Spring Boot Enthusiast • MCA Student
 
 [![GitHub](https://img.shields.io/badge/GitHub-lomeshpawar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lomeshpawar)
-[![Focus](https://img.shields.io/badge/Focus-Backend%20Engineering-0A66C2?style=for-the-badge&logo=spring&logoColor=white)](#-featured-projects)
+[![Focus](https://img.shields.io/badge/Focus-Backend%20Development-0A66C2?style=for-the-badge&logo=spring&logoColor=white)](#-featured-projects)
 
 Building secure, maintainable and scalable applications with **Java, Spring Boot and modern databases**.
 
@@ -18,9 +18,9 @@ Building secure, maintainable and scalable applications with **Java, Spring Boot
 I am an MCA student and aspiring **Java Backend Developer** focused on clean REST APIs, structured backend systems, authentication flows and database-driven applications.
 
 - 🔭 Building backend-focused and full-stack projects
-- 🌱 Learning **Spring Boot, Spring Security, JPA/Hibernate and backend architecture**
-- 🧠 Interested in **secure APIs, scalable systems and production-ready development**
-- 🎯 Goal: Grow into a professional backend engineer through consistent real-world building
+- 🌱 Learning **Spring Boot, Spring Security, JPA/Hibernate and backend development**
+- 🧠 Interested in **secure APIs, scalable systems and professional backend development**
+- 🎯 Goal: Grow into a professional Java Backend Developer through consistent real-world building
 
 ---
 

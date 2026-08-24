@@ -1,106 +1,95 @@
 <div align="center">
 
-# 👋 Hi, I'm Lomesh Pawar
+# Lomesh Pawar
 
-### Java Backend Developer • Spring Boot Enthusiast • MCA Student
+### Java Backend Developer
 
-[![GitHub](https://img.shields.io/badge/GitHub-lomeshpawar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lomeshpawar)
-[![Focus](https://img.shields.io/badge/Focus-Backend%20Development-0A66C2?style=for-the-badge&logo=spring&logoColor=white)](#-featured-projects)
+**I build backend applications with Java, Spring Boot, REST APIs and databases.**
 
-Building secure, maintainable and scalable applications with **Java, Spring Boot and modern databases**.
-
-</div>
-
----
-
-## 🚀 About Me
-
-I am an MCA student and aspiring **Java Backend Developer** focused on clean REST APIs, structured backend systems, authentication flows and database-driven applications.
-
-- 🔭 Building backend-focused and full-stack projects
-- 🌱 Learning **Spring Boot, Spring Security, JPA/Hibernate and backend development**
-- 🧠 Interested in **secure APIs, scalable systems and professional backend development**
-- 🎯 Goal: Grow into a professional Java Backend Developer through consistent real-world building
-
----
-
-## 🛠️ Tech Stack
-
-### Backend & APIs
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven" alt="Java Spring Hibernate Maven" />
-
-### Databases & Developer Tools
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,postman,docker" alt="MySQL MongoDB Git GitHub Postman Docker" />
-
-### Additional Skills
-<img src="https://skillicons.dev/icons?i=html,css,js,python" alt="HTML CSS JavaScript Python" />
-
----
-
-## 💼 Featured Projects
-
-### 🛡️ CounterCheck — Counterfeit Product Detection System
-A full-stack platform for analyzing product images and identifying potentially counterfeit products.
-
-**Highlights:** Spring Boot REST API • Python/Flask AI service • MySQL • Authentication • Admin features • Docker • CI/security workflows
-
-**Stack:** Java · Spring Boot · Python · Flask · MySQL · Docker
-
-➡️ **[Explore Repository](https://github.com/lomeshpawar/Counterfeit-Detection-System)**
-
-### 🚨 Disaster & Emergency Alert System
-A web-based system for reporting disasters, viewing emergency alerts and managing reports through an admin workflow.
-
-**Highlights:** Disaster reporting • Emergency alerts • Admin dashboard • Status management • MySQL persistence
-
-**Stack:** Java · Spring Boot · JPA · MySQL · HTML · CSS · JavaScript
-
-➡️ **[Explore Repository](https://github.com/lomeshpawar/Disaster-Emergency-Alert-System)**
-
----
-
-## 📊 GitHub Highlights
-
-<div align="center">
-
-[![Profile](https://img.shields.io/badge/GitHub-lomeshpawar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lomeshpawar)
-[![CounterCheck](https://img.shields.io/badge/Featured-CounterCheck-0A66C2?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/lomeshpawar/Counterfeit-Detection-System)
-[![Emergency System](https://img.shields.io/badge/Featured-Disaster%20Alert%20System-E63946?style=for-the-badge&logo=java&logoColor=white)](https://github.com/lomeshpawar/Disaster-Emergency-Alert-System)
+[View Projects](#featured-projects) · [GitHub Profile](https://github.com/lomeshpawar)
 
 </div>
 
-> Your live contribution graph and GitHub activity are available directly on your [GitHub profile](https://github.com/lomeshpawar).
+---
+
+## About
+
+MCA student and Java Backend Developer focused on building clean, maintainable and database-driven applications.
+
+**What I work with:** Java, Spring Boot, Spring Security, JPA/Hibernate, REST APIs, MySQL and MongoDB.
+
+**Current focus:** strengthening backend architecture, authentication, API design, database design and deployment practices through real-world projects.
 
 ---
 
-## 🎯 Current Focus
+## Technical Skills
 
-```text
-01. Mastering Java and modern Spring Boot development
-02. Building secure REST APIs with Spring Security
-03. Improving database design with MySQL and MongoDB
-04. Writing cleaner, maintainable backend architecture
-05. Learning Docker-based deployment workflows
-06. Building stronger real-world portfolio projects
-```
+| Area | Technologies |
+|---|---|
+| **Backend** | Java, Spring Boot, Spring Security, JPA, Hibernate |
+| **API Development** | REST APIs, JSON, HTTP |
+| **Databases** | MySQL, MongoDB |
+| **Tools** | Git, GitHub, Maven, Postman, Docker |
+| **Additional** | Python, Flask, HTML, CSS, JavaScript |
 
 ---
 
-## 📚 Education
+## Featured Projects
 
-🎓 **Master of Computer Applications (MCA)**  
+### 🛡️ [CounterCheck — Counterfeit Product Detection System](https://github.com/lomeshpawar/Counterfeit-Detection-System)
+
+Full-stack research project for analyzing product images and identifying potentially counterfeit products.
+
+**Key work**
+- Spring Boot backend and REST API development
+- Python/Flask AI service integration
+- MySQL-based data persistence
+- Authentication and admin functionality
+- Docker, CI and repository security improvements
+
+**Tech:** Java · Spring Boot · Python · Flask · MySQL · Docker
+
+---
+
+### 🚨 [Disaster & Emergency Alert System](https://github.com/lomeshpawar/Disaster-Emergency-Alert-System)
+
+A disaster reporting and emergency alert management application with user-facing reporting features and an admin workflow.
+
+**Key work**
+- Disaster report management
+- Emergency alert functionality
+- Admin dashboard and status management
+- Database-backed application design
+
+**Tech:** Java · Spring Boot · JPA · MySQL · HTML · CSS · JavaScript
+
+---
+
+## Current Development Focus
+
+- Building stronger Java and Spring Boot applications
+- Designing secure and well-structured REST APIs
+- Improving MySQL and MongoDB database skills
+- Writing cleaner backend code and project architecture
+- Learning practical Docker-based deployment workflows
+
+---
+
+## Education
+
+**Master of Computer Applications (MCA)**  
 K. K. Wagh Institute of Engineering Education & Research, Nashik
 
 ---
 
-## 🤝 Let's Connect
+## GitHub
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lomeshpawar)
+My repositories are the best place to see my work in progress, project structure and technical growth.
+
+→ **[Explore my GitHub projects](https://github.com/lomeshpawar?tab=repositories)**
 
 <div align="center">
 
-### 💡 *“Keep building. Every project is proof of progress.”*
-
-**Thanks for visiting my profile! ⭐**
+*Building consistently. Learning continuously. Improving with every project.*
 
 </div>

@@ -1,16 +1,108 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**lomeshpawar/lomeshpawar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Lomesh Pawar
 
-Here are some ideas to get you started:
+### Java Backend Developer • Spring Boot Enthusiast • MCA Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub](https://img.shields.io/badge/GitHub-lomeshpawar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lomeshpawar)
+[![Focus](https://img.shields.io/badge/Focus-Backend%20Engineering-0A66C2?style=for-the-badge&logo=spring&logoColor=white)](#-featured-projects)
+
+Building secure, maintainable and scalable applications with **Java, Spring Boot and modern databases**.
+
+</div>
+
+---
+
+## 🚀 About Me
+
+I am an MCA student and aspiring **Java Backend Developer** focused on clean REST APIs, structured backend systems, authentication flows and database-driven applications.
+
+- 🔭 Building backend-focused and full-stack projects
+- 🌱 Learning **Spring Boot, Spring Security, JPA/Hibernate and backend architecture**
+- 🧠 Interested in **secure APIs, scalable systems and production-ready development**
+- 🎯 Goal: Grow into a professional backend engineer through consistent real-world building
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend & APIs
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven" alt="Java Spring Hibernate Maven" />
+
+### Databases & Developer Tools
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,postman,docker" alt="MySQL MongoDB Git GitHub Postman Docker" />
+
+### Additional Skills
+<img src="https://skillicons.dev/icons?i=html,css,js,python" alt="HTML CSS JavaScript Python" />
+
+---
+
+## 💼 Featured Projects
+
+### 🛡️ CounterCheck — Counterfeit Product Detection System
+A full-stack platform for analyzing product images and identifying potentially counterfeit products.
+
+**Highlights:** Spring Boot REST API • Python/Flask AI service • MySQL • Authentication • Admin features • Docker • CI/security workflows
+
+**Stack:** Java · Spring Boot · Python · Flask · MySQL · Docker
+
+➡️ **[Explore Repository](https://github.com/lomeshpawar/Counterfeit-Detection-System)**
+
+### 🚨 Disaster & Emergency Alert System
+A web-based system for reporting disasters, viewing emergency alerts and managing reports through an admin workflow.
+
+**Highlights:** Disaster reporting • Emergency alerts • Admin dashboard • Status management • MySQL persistence
+
+**Stack:** Java · Spring Boot · JPA · MySQL · HTML · CSS · JavaScript
+
+➡️ **[Explore Repository](https://github.com/lomeshpawar/Disaster-Emergency-Alert-System)**
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=lomeshpawar&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub statistics" />
+
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=lomeshpawar&hide_border=true" alt="GitHub streak" />
+
+<br />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lomeshpawar&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```text
+01. Mastering Java and modern Spring Boot development
+02. Building secure REST APIs with Spring Security
+03. Improving database design with MySQL and MongoDB
+04. Writing cleaner, maintainable backend architecture
+05. Learning Docker-based deployment workflows
+06. Building stronger real-world portfolio projects
+```
+
+---
+
+## 📚 Education
+
+🎓 **Master of Computer Applications (MCA)**  
+K. K. Wagh Institute of Engineering Education & Research, Nashik
+
+---
+
+## 🤝 Let's Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lomeshpawar)
+
+<div align="center">
+
+### 💡 *“Keep building. Every project is proof of progress.”*
+
+**Thanks for visiting my profile! ⭐**
+
+</div>

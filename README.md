@@ -1,95 +1,121 @@
 <div align="center">
 
-# Lomesh Pawar
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&text=Lomesh%20Pawar&fontAlign=50&fontAlignY=38&desc=Java%20Backend%20Developer%20%7C%20Spring%20Boot%20%7C%20REST%20APIs&descAlign=50&descAlignY=60&animation=fadeIn" width="100%" alt="Lomesh Pawar - Java Backend Developer"/>
 
-### Java Backend Developer
-
-**I build backend applications with Java, Spring Boot, REST APIs and databases.**
-
-[View Projects](#featured-projects) · [GitHub Profile](https://github.com/lomeshpawar)
+<a href="https://github.com/lomeshpawar"><img src="https://img.shields.io/badge/GitHub-lomeshpawar-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://github.com/lomeshpawar/Counterfeit-Detection-System"><img src="https://img.shields.io/badge/Featured-CounterCheck-2ea44f?style=for-the-badge&logo=spring&logoColor=white" alt="CounterCheck"/></a>
 
 </div>
 
----
+<br/>
 
-## About
+> **Building secure, maintainable and database-driven backend applications — one real project at a time.**
 
-MCA student and Java Backend Developer focused on building clean, maintainable and database-driven applications.
+## 👨‍💻 About Me
 
-**What I work with:** Java, Spring Boot, Spring Security, JPA/Hibernate, REST APIs, MySQL and MongoDB.
+```java
+public class LomeshPawar {
+    String role = "Java Backend Developer";
+    String[] coreSkills = {"Java", "Spring Boot", "REST APIs", "Spring Security", "JPA/Hibernate"};
+    String[] databases = {"MySQL", "MongoDB"};
+    String currentlyBuilding = "Real-world backend applications with clean architecture";
+}
+```
 
-**Current focus:** strengthening backend architecture, authentication, API design, database design and deployment practices through real-world projects.
+## ⚙️ Tech Arsenal
 
----
+<div align="center">
 
-## Technical Skills
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,mongodb,git,github,maven,docker,postman,python,flask,html,css,js&perline=8" alt="Technology stack"/>
 
-| Area | Technologies |
-|---|---|
-| **Backend** | Java, Spring Boot, Spring Security, JPA, Hibernate |
-| **API Development** | REST APIs, JSON, HTTP |
-| **Databases** | MySQL, MongoDB |
-| **Tools** | Git, GitHub, Maven, Postman, Docker |
-| **Additional** | Python, Flask, HTML, CSS, JavaScript |
+</div>
 
----
+## 🚀 Featured Projects
 
-## Featured Projects
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🛡️ [CounterCheck — Counterfeit Product Detection System](https://github.com/lomeshpawar/Counterfeit-Detection-System)
+### 🛡️ CounterCheck
 
-Full-stack research project for analyzing product images and identifying potentially counterfeit products.
+**AI-Based Counterfeit Product Detection**
 
-**Key work**
-- Spring Boot backend and REST API development
-- Python/Flask AI service integration
-- MySQL-based data persistence
-- Authentication and admin functionality
-- Docker, CI and repository security improvements
+A full-stack research project that analyzes product images and helps identify potentially counterfeit products.
 
-**Tech:** Java · Spring Boot · Python · Flask · MySQL · Docker
+🔹 Spring Boot REST API<br/>
+🔹 Python + Flask AI service<br/>
+🔹 MySQL persistence<br/>
+🔹 Authentication & admin features<br/>
+🔹 Docker, CI & security setup
 
----
+**`Java` `Spring Boot` `Python` `Flask` `MySQL`**
 
-### 🚨 [Disaster & Emergency Alert System](https://github.com/lomeshpawar/Disaster-Emergency-Alert-System)
+➡️ **[View Project →](https://github.com/lomeshpawar/Counterfeit-Detection-System)**
 
-A disaster reporting and emergency alert management application with user-facing reporting features and an admin workflow.
+</td>
+<td width="50%" valign="top">
 
-**Key work**
-- Disaster report management
-- Emergency alert functionality
-- Admin dashboard and status management
-- Database-backed application design
+### 🚨 Emergency Alert System
 
-**Tech:** Java · Spring Boot · JPA · MySQL · HTML · CSS · JavaScript
+**Disaster Reporting & Alert Management**
 
----
+A backend-driven application for reporting disasters and managing emergency alerts through an admin workflow.
 
-## Current Development Focus
+🔹 Disaster reporting<br/>
+🔹 Emergency alerts<br/>
+🔹 Admin dashboard<br/>
+🔹 Report status management<br/>
+🔹 Database-backed design
 
-- Building stronger Java and Spring Boot applications
-- Designing secure and well-structured REST APIs
-- Improving MySQL and MongoDB database skills
-- Writing cleaner backend code and project architecture
-- Learning practical Docker-based deployment workflows
+**`Java` `Spring Boot` `JPA` `MySQL`**
 
----
+➡️ **[View Project →](https://github.com/lomeshpawar/Disaster-Emergency-Alert-System)**
 
-## Education
+</td>
+</tr>
+</table>
 
-**Master of Computer Applications (MCA)**  
+## 🎯 Current Mission
+
+<table>
+<tr>
+<td align="center">☕<br/><b>Java</b><br/>Deepen core backend skills</td>
+<td align="center">🌱<br/><b>Spring Boot</b><br/>Build stronger APIs</td>
+<td align="center">🔐<br/><b>Security</b><br/>Improve authentication</td>
+<td align="center">🗄️<br/><b>Databases</b><br/>Design better data models</td>
+<td align="center">🐳<br/><b>Docker</b><br/>Learn practical deployment</td>
+</tr>
+</table>
+
+## 📈 Developer Focus
+
+```text
+JAVA BACKEND DEVELOPMENT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Java & Spring Boot        █████████░
+REST API Development      █████████░
+Database Development      ████████░░
+Security & Authentication ███████░░░
+Docker & Deployment       ██████░░░░
+```
+
+## 🎓 Education
+
+🎓 **Master of Computer Applications (MCA)**  
 K. K. Wagh Institute of Engineering Education & Research, Nashik
 
 ---
 
-## GitHub
-
-My repositories are the best place to see my work in progress, project structure and technical growth.
-
-→ **[Explore my GitHub projects](https://github.com/lomeshpawar?tab=repositories)**
-
 <div align="center">
 
-*Building consistently. Learning continuously. Improving with every project.*
+### 💬 *“Don’t just learn technologies. Build with them.”*
+
+<a href="https://github.com/lomeshpawar">
+<img src="https://img.shields.io/badge/Explore_My_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub"/>
+</a>
+
+<br/><br/>
+
+⭐ **If you like my work, feel free to explore my repositories.**
 
 </div>

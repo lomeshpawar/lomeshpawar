@@ -1,70 +1,121 @@
-# 👋 Hi, I'm Lomesh Pawar
+<div align="center">
 
-### Java Backend Developer | Spring Boot | REST APIs | MySQL
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&text=Lomesh%20Pawar&fontAlign=50&fontAlignY=38&desc=Java%20Backend%20Developer%20%7C%20Spring%20Boot%20%7C%20REST%20APIs&descAlign=50&descAlignY=60&animation=fadeIn" width="100%" alt="Lomesh Pawar - Java Backend Developer"/>
 
-I’m an MCA student focused on building practical, maintainable backend applications with **Java and Spring Boot**. I enjoy working with REST APIs, databases, authentication, and integrating backend systems with real-world applications.
+<a href="https://github.com/lomeshpawar"><img src="https://img.shields.io/badge/GitHub-lomeshpawar-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://github.com/lomeshpawar/Counterfeit-Detection-System"><img src="https://img.shields.io/badge/Featured-CounterCheck-2ea44f?style=for-the-badge&logo=spring&logoColor=white" alt="CounterCheck"/></a>
+
+</div>
+
+<br/>
+
+> **Building secure, maintainable and database-driven backend applications — one real project at a time.**
+
+## 👨‍💻 About Me
+
+```java
+public class LomeshPawar {
+    String role = "Java Backend Developer";
+    String[] coreSkills = {"Java", "Spring Boot", "REST APIs", "Spring Security", "JPA/Hibernate"};
+    String[] databases = {"MySQL", "MongoDB"};
+    String currentlyBuilding = "Real-world backend applications with clean architecture";
+}
+```
+
+## ⚙️ Tech Arsenal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,mongodb,git,github,maven,docker,postman,python,flask,html,css,js&perline=8" alt="Technology stack"/>
+
+</div>
 
 ## 🚀 Featured Projects
 
-### 🛡️ CounterCheck — Counterfeit Product Detection System
-Full-stack research project for AI-assisted product authenticity analysis.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Java · Spring Boot · REST API · Python · Flask · MySQL · PyTorch · Docker**
+### 🛡️ CounterCheck
 
-- Product image upload and AI-assisted analysis
-- Prediction history and admin functionality
-- Separate Java backend and Python AI service
-- GitHub Pages frontend deployment
-- Docker Compose support for local multi-service development
+**AI-Based Counterfeit Product Detection**
 
-👉 [View CounterCheck](https://github.com/lomeshpawar/Counterfeit-Detection-System)
+A full-stack research project that analyzes product images and helps identify potentially counterfeit products.
 
-### 🚨 Disaster & Emergency Alert System
-Backend-driven web application for disaster reporting and emergency alert management.
+🔹 Spring Boot REST API<br>
+🔹 Python + Flask AI service<br>
+🔹 MySQL persistence<br>
+🔹 Authentication & admin features<br>
+🔹 Docker, CI & security setup
 
-**Java 17 · Spring Boot · Spring Data JPA · Hibernate · MySQL · JavaScript**
+**`Java` `Spring Boot` `Python` `Flask` `MySQL`**
 
-- User registration and login
-- Emergency alert management
-- Disaster report submission
-- Admin dashboard
-- REST API integration
-- GitHub Pages + Railway deployment
+➡️ **[View Project →](https://github.com/lomeshpawar/Counterfeit-Detection-System)**
 
-👉 [View Disaster Alert System](https://github.com/lomeshpawar/Disaster-Emergency-Alert-System)
+</td>
+<td width="50%" valign="top">
 
-## 🧰 Technical Skills
+### 🚨 Emergency Alert System
 
-**Languages:** Java, Python, SQL, JavaScript
+**Disaster Reporting & Alert Management**
 
-**Backend:** Spring Boot, Spring Web, REST APIs, Spring Data JPA, Hibernate
+A backend-driven application for reporting disasters and managing emergency alerts through an admin workflow.
 
-**Database:** MySQL, MongoDB
+🔹 Disaster reporting<br>
+🔹 Emergency alerts<br>
+🔹 Admin dashboard<br>
+🔹 Report status management<br>
+🔹 Database-backed design
 
-**Tools:** Git, GitHub, Maven, Postman, Docker
+**`Java` `Spring Boot` `JPA` `MySQL`**
 
-**Frontend:** HTML5, CSS3, JavaScript
+➡️ **[View Project →](https://github.com/lomeshpawar/Disaster-Emergency-Alert-System)**
 
-**AI/ML:** Python, Flask, PyTorch, OpenCV
+</td>
+</tr>
+</table>
 
-## 🎯 Currently Learning
+## 🎯 Current Mission
 
-- Advanced Java & OOP
-- Spring Boot backend architecture
-- REST API design
-- Spring Security & authentication
-- SQL and database design
-- Testing and deployment with Docker
+<table>
+<tr>
+<td align="center">☕<br/><b>Java</b><br/>Deepen core backend skills</td>
+<td align="center">🌱<br/><b>Spring Boot</b><br/>Build stronger APIs</td>
+<td align="center">🔐<br/><b>Security</b><br/>Improve authentication</td>
+<td align="center">🗄️<br/><b>Databases</b><br/>Design better data models</td>
+<td align="center">🐳<br/><b>Docker</b><br/>Learn practical deployment</td>
+</tr>
+</table>
+
+## 📈 Developer Focus
+
+```text
+JAVA BACKEND DEVELOPMENT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Java & Spring Boot        █████████░
+REST API Development      █████████░
+Database Development      ████████░░
+Security & Authentication ███████░░░
+Docker & Deployment       ██████░░░░
+```
 
 ## 🎓 Education
 
-**Master of Computer Applications (MCA)**  
+🎓 **Master of Computer Applications (MCA)**  
 K. K. Wagh Institute of Engineering Education & Research, Nashik
-
-## 📌 Career Goal
-
-Seeking **Java Backend Developer / Software Developer** opportunities where I can contribute to real-world applications while continuing to strengthen my backend engineering skills.
 
 ---
 
-⭐ Feel free to explore my repositories and projects.
+<div align="center">
+
+### 💬 *“Don’t just learn technologies. Build with them.”*
+
+<a href="https://github.com/lomeshpawar">
+<img src="https://img.shields.io/badge/Explore_My_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub"/>
+</a>
+
+<br/><br/>
+
+⭐ **If you like my work, feel free to explore my repositories.**
+
+</div>

@@ -45,8 +45,8 @@ A full-stack research project that analyzes product images and helps identify po
 🔹 Spring Boot REST API<br>
 🔹 Python + Flask AI service<br>
 🔹 MySQL persistence<br>
-🔹 Authentication & admin features<br>
-🔹 Docker, CI & security setup
+🔹 Prototype login/admin workflows (authorization hardening in progress)<br>
+🔹 Docker Compose, CI checks & secret scanning
 
 **`Java` `Spring Boot` `Python` `Flask` `MySQL`**
 

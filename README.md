@@ -87,17 +87,14 @@ A backend-driven application for reporting disasters and managing emergency aler
 </tr>
 </table>
 
-## 📈 Developer Focus
+## 🧭 Current Engineering Focus
 
-```text
-JAVA BACKEND DEVELOPMENT
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Java & Spring Boot        █████████░
-REST API Development      █████████░
-Database Development      ████████░░
-Security & Authentication ███████░░░
-Docker & Deployment       ██████░░░░
-```
+- **Backend APIs:** Build maintainable REST endpoints with clear request validation and error handling.
+- **Application security:** Strengthen server-side authentication, authorization, and configuration hygiene.
+- **Testing:** Add meaningful automated tests for success paths, invalid input, and access-control boundaries.
+- **Delivery:** Keep builds reproducible and document the steps needed to run each project locally.
+
+These are current learning and improvement priorities, not proficiency ratings.
 
 ## 🎓 Education
 

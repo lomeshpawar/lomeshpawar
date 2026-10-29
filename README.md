@@ -13,14 +13,14 @@
 
 ## 👨‍💻 About Me
 
-```java
+\`\`\`java
 public class LomeshPawar {
     String role = "Java Backend Developer";
     String[] coreSkills = {"Java", "Spring Boot", "REST APIs", "Spring Security", "JPA/Hibernate"};
     String[] databases = {"MySQL", "MongoDB"};
     String currentlyBuilding = "Real-world backend applications with clean architecture";
 }
-```
+\`\`\`
 
 ## ⚙️ Tech Arsenal
 
@@ -38,17 +38,17 @@ public class LomeshPawar {
 
 ### 🛡️ CounterCheck
 
-**AI-Based Counterfeit Product Detection**
+**Experimental Counterfeit-Detection Prototype**
 
-A full-stack research project that analyzes product images and helps identify potentially counterfeit products.
+A full-stack research prototype that scores product images using generic MobileNetV2 ImageNet outputs and hand-designed image-quality heuristics. It is **not a validated counterfeit classifier** and should not be used to make real-world authenticity decisions.
 
 🔹 Spring Boot REST API<br>
-🔹 Python + Flask AI service<br>
+🔹 Python + Flask image-analysis service<br>
 🔹 MySQL persistence<br>
 🔹 Prototype login/admin workflows (authorization hardening in progress)<br>
 🔹 Docker Compose, CI checks & secret scanning
 
-**`Java` `Spring Boot` `Python` `Flask` `MySQL`**
+**\`Java\` \`Spring Boot\` \`Python\` \`Flask\` \`MySQL\`**
 
 ➡️ **[View Project →](https://github.com/lomeshpawar/Counterfeit-Detection-System)**
 
@@ -67,7 +67,7 @@ A backend-driven application for reporting disasters and managing emergency aler
 🔹 Report status management<br>
 🔹 Database-backed design
 
-**`Java` `Spring Boot` `JPA` `MySQL`**
+**\`Java\` \`Spring Boot\` \`JPA\` \`MySQL\`**
 
 ➡️ **[View Project →](https://github.com/lomeshpawar/Disaster-Emergency-Alert-System)**
 

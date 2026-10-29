@@ -13,14 +13,14 @@
 
 ## 👨‍💻 About Me
 
-\`\`\`java
+```java
 public class LomeshPawar {
     String role = "Java Backend Developer";
     String[] coreSkills = {"Java", "Spring Boot", "REST APIs", "Spring Security", "JPA/Hibernate"};
     String[] databases = {"MySQL", "MongoDB"};
     String currentlyBuilding = "Real-world backend applications with clean architecture";
 }
-\`\`\`
+```
 
 ## ⚙️ Tech Arsenal
 
@@ -48,7 +48,7 @@ A full-stack research prototype that scores product images using generic MobileN
 🔹 Prototype login/admin workflows (authorization hardening in progress)<br>
 🔹 Docker Compose, CI checks & secret scanning
 
-**\`Java\` \`Spring Boot\` \`Python\` \`Flask\` \`MySQL\`**
+**`Java` `Spring Boot` `Python` `Flask` `MySQL`**
 
 ➡️ **[View Project →](https://github.com/lomeshpawar/Counterfeit-Detection-System)**
 
@@ -67,7 +67,7 @@ A backend-driven application for reporting disasters and managing emergency aler
 🔹 Report status management<br>
 🔹 Database-backed design
 
-**\`Java\` \`Spring Boot\` \`JPA\` \`MySQL\`**
+**`Java` `Spring Boot` `JPA` `MySQL`**
 
 ➡️ **[View Project →](https://github.com/lomeshpawar/Disaster-Emergency-Alert-System)**
 

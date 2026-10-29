@@ -38,12 +38,12 @@ public class LomeshPawar {
 
 ### 🛡️ CounterCheck
 
-**AI-Based Counterfeit Product Detection**
+**Experimental Counterfeit-Detection Prototype**
 
-A full-stack research project that analyzes product images and helps identify potentially counterfeit products.
+A full-stack research prototype that scores product images using generic MobileNetV2 ImageNet outputs and hand-designed image-quality heuristics. It is **not a validated counterfeit classifier** and should not be used to make real-world authenticity decisions.
 
 🔹 Spring Boot REST API<br>
-🔹 Python + Flask AI service<br>
+🔹 Python + Flask image-analysis service<br>
 🔹 MySQL persistence<br>
 🔹 Prototype login/admin workflows (authorization hardening in progress)<br>
 🔹 Docker Compose, CI checks & secret scanning

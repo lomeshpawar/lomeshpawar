@@ -63,7 +63,7 @@ A backend-driven application for reporting disasters and managing emergency aler
 
 🔹 Disaster reporting<br>
 🔹 Emergency alerts<br>
-🔹 Admin dashboard<br>
+🔹 Admin dashboard (prototype UI; backend role-based authorization is not yet enforced)<br>
 🔹 Report status management<br>
 🔹 Database-backed design
 

@@ -16,8 +16,9 @@
 ```java
 public class LomeshPawar {
     String role = "Java Backend Developer";
-    String[] coreSkills = {"Java", "Spring Boot", "REST APIs", "Spring Security", "JPA/Hibernate"};
+    String[] coreSkills = {"Java", "Spring Boot", "REST APIs", "JPA/Hibernate"};
     String[] databases = {"MySQL", "MongoDB"};
+    String[] currentlyLearning = {"Spring Security", "Automated Testing", "Docker"};
     String currentlyBuilding = "Real-world backend applications with clean architecture";
 }
 ```

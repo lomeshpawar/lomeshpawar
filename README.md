@@ -76,6 +76,24 @@ A backend-driven application for reporting disasters and managing emergency aler
 </tr>
 </table>
 
+## 🧩 Additional Engineering Work
+
+### ☕ Codveda Java Internship
+
+A collection of Java development tasks covering core programming, object-oriented design, JDBC/database operations, and multithreading. The repository includes source code and task-level documentation.
+
+**`Java` `OOP` `JDBC` `Collections` `Multithreading`**
+
+➡️ **[View Java Internship Projects →](https://github.com/lomeshpawar/codveda-java-internship)**
+
+### 🧪 ADR-DETECT — Pharmacovigilance Training Module
+
+An educational React and Spring Boot application for practicing adverse drug reaction assessment and reporting workflows. It is a learning simulation only—not medical advice or a clinical decision-support system. Do not use real patient data.
+
+**`Java` `Spring Boot` `React` `Vite` `H2`**
+
+➡️ **[View ADR-DETECT →](https://github.com/lomeshpawar/ADR-DETECT-An-Interactive-Pharmacovigilance-Module)**
+
 ## 🎯 Current Mission
 
 <table>
